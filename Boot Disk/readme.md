@@ -1,3 +1,7 @@
+# Boot Disk on Virtio
+sch: https://www.google.com/search?q=windows+virtio+drivers+on+boot
+
+Answer: https://superuser.com/questions/1057959/windows-10-in-kvm-change-boot-disk-to-virtio
 
 
 [quote](https://www.reddit.com/r/VFIO/comments/13x9ibs/comment/jmg81ck/):
